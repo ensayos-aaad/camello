@@ -1,5 +1,3 @@
-# https://github.com/markhliu/mpt/blob/master/ch03/voice_browse.py
-
 import webbrowser
 import speech_recognition as sr
 
@@ -29,13 +27,5 @@ while True:
         break
     elif "browser" in inp:
         inp = inp.replace('browser ','')
-        webbrowser.open("http://"+inp)
-        # webbrowser.open("http://google.com/search?q=" + inp)
+        webbrowser.open("http://google.com/search?q="+inp)
         continue
-
-"""
-Important: 
-Don’t start speaking into the microphone before you see the message Python is
-listening..., or part (or even all) of your speech may not be captured by the speech
-recognition software.
-"""
