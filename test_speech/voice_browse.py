@@ -30,7 +30,7 @@ while True:
     elif "browser" in inp:
         inp = inp.replace('browser ','')
         # webbrowser.open("http://"+inp)
-        
+        webbrowser.open("http://google.com/search?q=" + inp)
         continue
 
 """
