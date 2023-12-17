@@ -21,6 +21,31 @@ Pendiente por ver:
 * https://github.com/eon01/Natural-Language-Processing-Tutorials
 * https://github.com/openai/openai-python
 * https://github.com/openai/whisper
+* https://platzi.com/blog/whisper-usa-gratis-esta-ai-para-el-reconocimiento-de-voz/
+* https://dev.to/azure/ai-using-whisper-to-convert-audio-to-text-from-my-podcast-episode-in-spanish-c96
+* https://www.datacamp.com/tutorial/converting-speech-to-text-with-the-openAI-whisper-API
+* https://github.com/PacktPublishing/ChatGPT-Voice-Powered-ChatBot-Build-with-React-and-FastAPI
+
+* https://github.com/nitaiaharoni1/whisper-speech-to-text
+* https://github.com/innovatorved/whisper.api (ver...)
+* https://github.com/reriiasu/speech-to-text
+* https://github.com/morioka/tiny-openai-whisper-api
+* https://blindbox.mithrilsecurity.io/en/latest/docs/how-to-guides/openai-whisper/
+* https://github.com/Rishiguin/whisper_site
+* https://whisperapi.com/
+* https://openai.com/blog/introducing-chatgpt-and-whisper-apis
+* https://github.com/ahmetoner/whisper-asr-webservice
+* https://stackoverflow.com/questions/76576054/how-to-send-an-m4a-file-from-fastapi-to-openai-transcribe
+* https://ahmadrosid.com/blog/youtube-transcriptioin-with-openai-whisper
+* https://deepgram.com/learn/live-transcription-fastapi
+* https://www.oreilly.com/library/view/chatgpt-voice-powered-chatbot/9781835084625/video4_4.html
+
+Esto es lo que se necesita: 
+* https://github.com/PacktPublishing/ChatGPT-Voice-Powered-ChatBot-Build-with-React-and-FastAPI/tree/main
+* https://www.packtpub.com/product/chatgpt-voice-powered-chatbot-build-with-react-and-fastapi-video/9781835084625
+* https://www.udemy.com/course/chatgpt-ai-voice-chatbot-build-with-react-and-fast-api-combo/
+
+
 
 1. https://www.datacamp.com/tutorial/converting-speech-to-text-with-the-openAI-whisper-API
 2. https://github.com/mallorbc/whisper_mic/tree/main
