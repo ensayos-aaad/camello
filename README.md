@@ -57,6 +57,20 @@ Esto es lo que se necesita:
 8. https://www.datacamp.com/blog/5-projects-you-can-build-with-generative-ai-models
 9. https://github.com/openai/whisper
 
+Pasos: Siga lo que se dice en: 
+* https://dev.to/chris-pennington/how-i-use-ai-to-transcribe-in-my-terminal-4n0d
+  * https://www.youtube.com/watch?v=xDKAX2_pul0
+  * https://www.youtube.com/watch?v=SL6qw9-9NEQ
+  * https://platzi.com/clases/7964-ia-devs/63306-crear-una-aplicacion-web-con-amazon-codewhisperer/
+  * https://github.com/elyager/whisper_real_time
+  * https://github.com/elyager/use-whisper
+  * https://github.com/chengsokdara/use-whisper
+  * https://github.com/davabase/whisper_real_time
+  * https://github.com/platzi/laboratorio-machine-learning
+  * https://github.com/nerddiana?tab=repositories
+  * 
+  
+
 ## Otras referencias
 
 1. https://openai.com/research/whisper
