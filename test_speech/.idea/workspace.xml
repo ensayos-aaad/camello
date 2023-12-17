@@ -1,16 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8e12e446-3be2-4a31-b799-6697bd49ad8b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/desk.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mysr.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stand_by1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/voice_open_file.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/os_platform.py" beforeDir="false" afterPath="$PROJECT_DIR$/os_platform.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/voice_search.py" beforeDir="false" afterPath="$PROJECT_DIR$/voice_search.py" afterDir="false" />
-    </list>
+    <list default="true" id="8e12e446-3be2-4a31-b799-6697bd49ad8b" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -185,7 +176,7 @@
       <option name="presentableId" value="Default" />
       <updated>1702757940694</updated>
       <workItem from="1702757945756" duration="3000000" />
-      <workItem from="1702760964145" duration="2108000" />
+      <workItem from="1702760964145" duration="2597000" />
     </task>
     <servers />
   </component>
@@ -205,10 +196,11 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/test_speech$voice_browse.coverage" NAME="voice_browse Coverage Results" MODIFIED="1702762524990" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/test_speech$stand_by1.coverage" NAME="stand_by1 Coverage Results" MODIFIED="1702763373335" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/test_speech$env_test.coverage" NAME="env_test Coverage Results" MODIFIED="1702759254465" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/test_speech$os_platform.coverage" NAME="os_platform Coverage Results" MODIFIED="1702763048335" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/test_speech$stand_by.coverage" NAME="stand_by Coverage Results" MODIFIED="1702759338247" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/test_speech$mysr.coverage" NAME="mysr Coverage Results" MODIFIED="1702762542652" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/test_speech$voice_open_file.coverage" NAME="voice_open_file Coverage Results" MODIFIED="1702763144653" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/test_speech$voice_open_file.coverage" NAME="voice_open_file Coverage Results" MODIFIED="1702763232285" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
