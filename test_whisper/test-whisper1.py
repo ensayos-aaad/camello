@@ -17,7 +17,8 @@ from whisper.utils import get_writer
 
 model = whisper.load_model("base")
 audio = "trabalenguas.mp3"
-result = model.transcribe("trabalenguas.mp3")
+# audio = "PFS_Podcast_313_comida_en_el_futuro.mp3"
+result = model.transcribe(audio)
 print(result["text"])
 #df = pd.DataFrame(result["segments"])
 #df = pd.DataFrame(result["segments"])[['id','start','end','text']]
